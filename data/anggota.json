@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nama": "Solafide Zamili",
+        "angkatan": "2021",
+        "prodi": "Teknik Informatika",
+        "kontak": "082260025752"
+    },
+    {
+        "id": 2,
+        "nama": "Cahya Juang Cristian",
+        "angkatan": "2021",
+        "prodi": "Teknik Geofisika",
+        "kontak": "082260025752"
+    }
+]
